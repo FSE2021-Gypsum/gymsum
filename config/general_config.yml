@@ -1,0 +1,5 @@
+general:
+  use_cuda: true
+  gpu: 1
+  seed: 5783287
+  parallel: falseca

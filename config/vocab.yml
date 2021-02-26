@@ -1,0 +1,8 @@
+vocab:
+  src_vocab_size: 50000
+  tgt_vocab_size: 50000
+  include_singleton: false
+  data_dir: 'data/python'
+  src_file: 'code.original_subtoken'
+  tgt_file: 'javadoc.original'
+  outpu_file: 'vocab.bin'

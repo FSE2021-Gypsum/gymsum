@@ -1,0 +1,7 @@
+vocab:
+  src_vocab_size: 50000
+  tgt_vocab_size: 30000
+  include_singleton: true
+  data_dir: 'data/python'
+  src_file: 'code.original_subtoken'
+  tgt_file: 'javadoc.original'
