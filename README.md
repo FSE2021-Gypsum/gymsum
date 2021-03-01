@@ -1,79 +1,9 @@
 # gypsum
 
-## Data Link: https://drive.google.com/file/d/1hQWQE6qm-qNGYKEPMoVMepMEZ72nXJL3/view?usp=sharing
+## Get Data [data](https://drive.google.com/file/d/1hQWQE6qm-qNGYKEPMoVMepMEZ72nXJL3/view?usp=sharing)
 
 ### Data Directory Structure:
-├── data
-│   ├── java
-│   │   ├── dev
-│   │   │   ├── code.original
-│   │   │   ├── code.original_subtoken
-│   │   │   ├── ggnn.json
-│   │   │   └── javadoc.original
-│   │   ├── dev_remove
-│   │   │   ├── code.original
-│   │   │   ├── code.original_subtoken
-│   │   │   ├── ids.txt
-│   │   │   └── javadoc.original
-│   │   ├── othter_models
-│   │   │   ├── code2seq
-│   │   │   └── rl_cs
-│   │   ├── test
-│   │   │   ├── code.original
-│   │   │   ├── code.original_subtoken
-│   │   │   ├── ggnn.json
-│   │   │   └── javadoc.original
-│   │   ├── test_remove
-│   │   │   ├── code.original
-│   │   │   ├── code.original_subtoken
-│   │   │   ├── ids.txt
-│   │   │   └── javadoc.original
-│   │   └── train
-│   │       ├── code.original
-│   │       ├── code.original_subtoken
-│   │       ├── ggnn.json
-│   │       └── javadoc.original
-│   └── python
-│       ├── code2seq
-│       │   ├── dev.raw.txt.json
-│       │   ├── python.dict.c2s
-│       │   ├── python.test.c2s
-│       │   ├── python.train.c2s
-│       │   ├── python.val.c2s
-│       │   ├── test.raw.txt.json
-│       │   └── train.raw.txt.json
-│       ├── dev
-│       │   ├── ast.original
-│       │   ├── code.original
-│       │   ├── code.original_subtoken
-│       │   ├── ggnn.json
-│       │   ├── javadoc.new
-│       │   └── javadoc.original
-│       ├── dev_remove
-│       │   ├── code.original
-│       │   ├── code.original_subtoken
-│       │   ├── ids.txt
-│       │   └── javadoc.original
-│       ├── test
-│       │   ├── ast.original
-│       │   ├── code.original
-│       │   ├── code.original_subtoken
-│       │   ├── ggnn.json
-│       │   ├── javadoc.new
-│       │   └── javadoc.original
-│       ├── test_remove
-│       │   ├── code.original
-│       │   ├── code.original_subtoken
-│       │   ├── ids.txt
-│       │   └── javadoc.original
-│       └── train
-│           ├── ast.original
-│           ├── code.original
-│           ├── code.original_subtoken
-│           ├── ggnn.json
-│           ├── javadoc.new
-│           └── javadoc.original
-├──
+![image](https://user-images.githubusercontent.com/79627998/109446893-7f4a2b80-7a7d-11eb-8526-59b5ac275658.png)
 
 
 ## How to run: 
